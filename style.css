@@ -1,0 +1,26 @@
+html, body {
+    margin: 0; /* Removing the default margin from the whole html document*/
+    padding: 0; /* Removing the default padding from the whole html document*/
+}
+
+body {
+    min-height: 100vh;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif; /* Changing default font style*/
+    line-height: 1;
+    background-color: pink; /* Adding background color*/
+    background-image: url(web-designing.jpg); /* Adding background image*/
+    background-repeat: no-repeat; /* Removing the repeatation of same background image*/
+    background-size: cover; /* Making it to cover entire web page*/
+    color: white; /* Changing the color of the text*/
+}
+
+a {
+    color: white; /* Changing the color of a tag element*/
+    text-decoration: none; /* Removing the default hyper-link(underline) from the link*/
+}
+
+img {
+    width: 500px; /* Changing the default width of the image*/
+    height: 500px; /* Changing the default height of the image*/
+}
