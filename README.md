@@ -6,7 +6,7 @@ The basics of Web development was taught during this session like different type
 
 ## Topics Covered in this session:
 - Creating first HTML file or web page.
-- Diffrent types of HTML tags (html, head, title, link, body).
+- Different types of HTML tags (html, head, title, link, body).
 - Writing a structured HTML file using tags available in HTML5 such as header, nav, section, div, footer tags.
 - Usage of a, button, img tags.
 - Creating first CSS file.
