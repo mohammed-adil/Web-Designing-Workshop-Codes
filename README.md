@@ -15,3 +15,12 @@ The basics of Web development was taught during this session like different type
 - Removing margin and padding from HTML document.
 - Changing the font color and font style of the document.
 - Changing the background color of the document and also adding an image as the background. 
+
+## Workshop Session Two
+In this session, we'll be learning how to create a whole website or web page from scratch. Session will also cover the deployment of our web page in GitHub Pages.
+
+## Topics to be covered in this session:
+- Creating HTML file or web page.
+- Creating a fresh User Interface using HTML an CSS.
+- Learning to create a responsive website using CSS3 grid system.
+- Finishing up building the project by deploying it to GitHub pages.
