@@ -2,7 +2,7 @@
 All source codes of the Web Designing Workshop done at glug pace are available here.
 
 ## Workshop Session One
-The basics of Web development was taught during this session like different types of websites, different feilds of web developemnt and how to get started with web development.
+The basics of Web development was taught during this session like different types of websites, different fields of web development and how to get started with web development.
 
 ## Topics Covered in this session:
 - Creating first HTML file or web page.
