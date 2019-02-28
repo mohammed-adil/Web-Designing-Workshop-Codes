@@ -24,3 +24,9 @@ In this session, we'll be learning how to create a whole website or web page fro
 - Creating a fresh User Interface using HTML an CSS.
 - Learning to create a responsive website using CSS3 grid system.
 - Finishing up building the project by deploying it to GitHub pages.
+
+## Resources for Web Development:
+- HTML Crash Course For Absolute Beginners: https://www.youtube.com/watch?v=UB1O30fR-EE
+- CSS Crash Course For Absolute Beginners: https://www.youtube.com/watch?v=yfoY53QXEnI&t=46s
+- HTML & CSS Courses: https://www.youtube.com/watch?v=yfoY53QXEnI&index=2&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU
+- Deploying your website to GitHub Pages: https://www.youtube.com/watch?v=BA_c3bGQXlQ
